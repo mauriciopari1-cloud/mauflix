@@ -1,0 +1,74 @@
+[
+{
+"id":1,
+"nombre": "Exitosa TV",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/pu0BSB7.png",
+"url": "http://190.93.224.42/EXITOSA/index.m3u8"
+
+},
+
+{
+"id":2,
+"nombre": "Antena SUR",
+"categoria": "Noticias",
+"imagen": "https://i.imgur.com/4aHrD2l.jpeg",
+"url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+},
+{
+"id":3,
+"nombre": "ATV",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/eUzYZfg.png",
+"url": "http://190.93.224.42/ATV/index.m3u8"
+},
+{
+"id":4,
+"nombre": "Latina",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/MOsWriY.png",
+"url": "http://190.93.224.42/LATINA/index.m3u8"
+},
+{
+"id":5,
+"nombre": "RPP TV",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/oBz3CgE.png",
+"url": "http://190.93.224.42/RPP/index.m3u8"
+},
+{
+"id":6,
+"nombre": "Willax TV",
+"categoria": "entretenimiento",
+"imagen": "https://i.imgur.com/bZnDDPH.png",
+"url": "http://190.93.224.42/WILLAX/index.m3u8"
+},
+{
+"id":7,
+"nombre": "TV MAX",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/JFBpDJ1.jpeg",
+"url": "https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8"
+},
+{
+"id":8,
+"nombre": "fox sports",
+"categoria": "deportes",
+"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+"url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+},
+{
+"id":9,
+"nombre": "ADN 40",
+"categoria": "noticias",
+"imagen": "https://i.imgur.com/Og17U9N.png",
+"url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+},
+{
+"id":10,
+"nombre": "ITV Deportes",
+"categoria": "deportes",
+"imagen": "https://iili.io/J1kV1Bn.png",
+"url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+}
+]
