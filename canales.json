@@ -70,5 +70,12 @@
 "categoria": "deportes",
 "imagen": "https://iili.io/J1kV1Bn.png",
 "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+},
+  {
+"id":10,
+"nombre": "ITV Deportes",
+"categoria": "deportes",
+"imagen": "https://iili.io/J1kV1Bn.png",
+"url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
 }
 ]
